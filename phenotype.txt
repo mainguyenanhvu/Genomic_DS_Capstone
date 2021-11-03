@@ -1,0 +1,7 @@
+"Age" "age.group" "RIN" "sex" "race" "Total.sequences" "alignment.rate" "Average.Quality.per.read" "X.GC"
+"SRR1554536   R3098_DLPFC_polyA_RNAseq_total" 44.17 "adult" 5.3 "female" "AA" 45322851 99.87 37 46
+"SRR1554556   R3969_DLPFC_polyA_RNAseq_total" 36.98 "adult" 8.5 "male" "AA" 104578088 99.8 37 48
+"SRR1554561   R4166_DLPFC_polyA_RNAseq_total" 43.88 "adult" 8.7 "male" "AA" 83459762 99.7 37 52
+"SRR1554538   R3462_DLPFC_polyA_RNAseq_total" -0.4027 "fetal" 6.4 "female" "AA" 147128996 99.8 37 47
+"SRR1554566   R4706_DLPFC_polyA_RNAseq_total" -0.4986 "fetal" 8.3 "male" "HISP" 116523909 99.79 37 49
+"SRR1554568   R4708_DLPFC_polyA_RNAseq_total" -0.4986 "fetal" 8 "male" "AA" 104269009 99.78 37 47
